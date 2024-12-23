@@ -70,6 +70,6 @@ A simple and modern password generator with a graphical user interface (GUI) bui
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/Myasirjamil/password-generator.git
    cd password-generator
    python3 main.py 
